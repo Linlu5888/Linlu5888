@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Linlu</h1>
 <h3 align="center">A developer from China</h3>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Linlu5888&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Linlu5888&repo=convoychat" />
+</a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linlu5888)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linlu5888&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
