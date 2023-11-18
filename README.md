@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Linlu</h1>
 <h3 align="center">A developer from China</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linlu5888)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left">
 </p>
 
